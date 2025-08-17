@@ -1,1 +1,1 @@
-# init file for gmao app
+# gmao package init

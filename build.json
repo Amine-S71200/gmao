@@ -1,0 +1,8 @@
+{
+  "css": [
+    "gmao/public/css/gmao.css"
+  ],
+  "js": [
+    "gmao/public/js/gmao.js"
+  ]
+}

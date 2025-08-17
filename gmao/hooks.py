@@ -1,0 +1,8 @@
+app_name = "gmao"
+app_title = "GMAO"
+app_publisher = "Amine Hammouda"
+app_description = "Application GMAO pour ERPNext"
+app_icon = "octicon octicon-tools"
+app_color = "grey"
+app_email = "amine.hammoud51@gmail.com"
+app_license = "MIT"

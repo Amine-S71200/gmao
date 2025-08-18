@@ -9,5 +9,5 @@ app_email = "amine.hammoud51@gmail.com"
 app_license = "MIT"
 
 # ðŸ”¹ Assets front-end (toujours des listes)
-app_include_css = ["/assets/gmao/css/gmao.css"]
-app_include_js = ["/assets/gmao/js/gmao.js"]
+app_include_css = "/assets/gmao/css/gmao.css"
+app_include_js = "/assets/gmao/js/gmao.js"
